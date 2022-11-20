@@ -1,0 +1,23 @@
+body{
+	background-color:black;
+	color:white;
+}
+table,th,td{
+	width:15cm;
+	border-collapse:collapse;
+	border:5px solid white;
+	margin-top:1cm;
+	margin-right:1cm;
+	margin-left:1cm;
+	padding:10px;
+}
+th{
+	font-size:100px;
+}
+.sub{
+	background-color:green;
+	font-size:50px;
+}
+td{
+	font-size:20px;
+}
